@@ -17,6 +17,7 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 - [Optimizilla](http://optimizilla.com/) - best way to compress and optimize images
 - [Placeholder.com](https://placeholder.com/) - generate a placeholder image of any size in a second
+- [Gitbook](https://www.gitbook.com/)
 
 #### Lists
 
