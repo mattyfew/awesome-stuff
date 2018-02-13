@@ -41,3 +41,10 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 #### AngularJS
 
 - [Learn and Understand AngularJS](https://udemy-images.udemy.com/course/240x135/289230_1056_16.jpg)
+
+## Misc
+
+### Coding Challenges
+
+- [HackerRank](https://www.hackerrank.com/)
+- ​
