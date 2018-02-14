@@ -12,6 +12,18 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 - [Colormind.io](http://colormind.io/) - color pallette generator
 - [Flat UI Colors](http://flatuicolors.com/) - flat, bright colors that look great on web
+- [Colordot](https://color.hailpixel.com) - color palette designer
+- [Coolhue](https://webkul.github.io/coolhue/) - handpicked cool gradients
+
+#### Icons
+
+- [The Noun Project](https://thenounproject.com) - open source icons
+- [Feather](https://feathericons.com/) - open source icons
+
+#### Fonts
+
+- [Font Awesome](http://fontawesome.io/)
+- [Google Fonts](https://fonts.google.com/)
 
 ##### Misc
 
@@ -48,3 +60,7 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 - [HackerRank](https://www.hackerrank.com/)
 - ​
+
+### APIs
+
+- [Google Maps](https://developers.google.com/maps/)
