@@ -67,4 +67,6 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 ### Lists
 
-- [Long list of Mac OS stuff](https://github.com/nikitavoloboev/my-mac-os)
+- [My Mac OS](https://github.com/nikitavoloboev/my-mac-os)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [My wonderful world of IOS](https://github.com/nikitavoloboev/my-ios)
