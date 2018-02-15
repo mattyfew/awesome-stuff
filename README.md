@@ -64,3 +64,7 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 ### APIs
 
 - [Google Maps](https://developers.google.com/maps/)
+
+### Lists
+
+- [Long list of Mac OS stuff](https://github.com/nikitavoloboev/my-mac-os)
