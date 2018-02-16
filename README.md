@@ -74,4 +74,12 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 - [Crypto Insider](https://cryptoinsider.21mil.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/) - also contains links to other, similar weekly emails at the bottom
+- [Hackernewsletter](http://www.hackernewsletter.com/)
 
+### Freelance
+
+- [Bonsai](https://www.hellobonsai.com/)
+
+## Blockchain
+
+- [Supercrypta](https://supercrypta.github.io/supercrypta/) - nice little Mac OS X plugin for viewing your coin balances and current prices
