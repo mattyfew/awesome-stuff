@@ -46,27 +46,32 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 - [Anthony Alicea](https://www.udemy.com/user/anthonypalicea/) is a great JS teacher. Check out "[JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)"
 
-#### Node
+### Node
 
 - "[Learn and Understand Node](https://www.udemy.com/understand-nodejs/)" by Anthony Alicea
 
-#### AngularJS
+### AngularJS
 
 - [Learn and Understand AngularJS](https://udemy-images.udemy.com/course/240x135/289230_1056_16.jpg)
-
-## Misc
 
 ### Coding Challenges
 
 - [HackerRank](https://www.hackerrank.com/)
-- ​
 
 ### APIs
 
 - [Google Maps](https://developers.google.com/maps/)
+- [Pokéapi](https://pokeapi.co/)
 
 ### Lists
 
 - [My Mac OS](https://github.com/nikitavoloboev/my-mac-os)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [My wonderful world of IOS](https://github.com/nikitavoloboev/my-ios)
+- [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas)
+
+### Email Subscriptions
+
+- [Crypto Insider](https://cryptoinsider.21mil.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/) - also contains links to other, similar weekly emails at the bottom
+
