@@ -8,6 +8,10 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 - [Google Keep](https://keep.google.com)
 - [Jrnl](http://jrnl.sh/)
 
+##### Project Management
+
+- [Trello](https://trello.com/)
+
 ##### Design
 
 - [Colormind.io](http://colormind.io/) - color pallette generator
@@ -15,12 +19,12 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 - [Colordot](https://color.hailpixel.com) - color palette designer
 - [Coolhue](https://webkul.github.io/coolhue/) - handpicked cool gradients
 
-#### Icons
+##### Icons
 
 - [The Noun Project](https://thenounproject.com) - open source icons
 - [Feather](https://feathericons.com/) - open source icons
 
-#### Fonts
+##### Fonts
 
 - [Font Awesome](http://fontawesome.io/)
 - [Google Fonts](https://fonts.google.com/)
@@ -31,28 +35,38 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 - [Placeholder.com](https://placeholder.com/) - generate a placeholder image of any size in a second
 - [Gitbook](https://www.gitbook.com/)
 
-#### Lists
+##### Lists
 
 - [Remote Starter Kit](http://www.remotestarterkit.com/)
 
+##### Website Performance Testing
+
+- [WebPageTest.org](https://webpagetest.org)
+
+
+
 ## Tutorials
 
-#### React
+##### React
 
 - Anything by [Stephen Grider](https://www.udemy.com/user/sgslo/), for beginners I recommend "[Modern React with Redux](https://www.udemy.com/react-redux/)"
 - Anything by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
-#### JavaScript
+##### JavaScript
 
 - [Anthony Alicea](https://www.udemy.com/user/anthonypalicea/) is a great JS teacher. Check out "[JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)"
 
-### Node
+##### Node
 
 - "[Learn and Understand Node](https://www.udemy.com/understand-nodejs/)" by Anthony Alicea
 
-### AngularJS
+##### AngularJS
 
 - [Learn and Understand AngularJS](https://udemy-images.udemy.com/course/240x135/289230_1056_16.jpg)
+
+##### Bash
+
+- [My Mac OSX Bash Profile](https://natelandau.com/my-mac-osx-bash_profile/)
 
 ### Coding Challenges
 
@@ -75,10 +89,13 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 - [Crypto Insider](https://cryptoinsider.21mil.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/) - also contains links to other, similar weekly emails at the bottom
 - [Hackernewsletter](http://www.hackernewsletter.com/)
+- [React Status](https://react.statuscode.com/)
 
 ### Freelance
 
 - [Bonsai](https://www.hellobonsai.com/)
+
+
 
 ## Blockchain
 
