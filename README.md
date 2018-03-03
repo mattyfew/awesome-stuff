@@ -96,6 +96,10 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 - [Bonsai](https://www.hellobonsai.com/)
 
 
+### Entreprenuer
+
+- [Indie Hackers](https://www.indiehackers.com/)
+
 
 ## Blockchain
 
