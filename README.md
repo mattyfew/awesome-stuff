@@ -34,6 +34,7 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 - [Optimizilla](http://optimizilla.com/) - best way to compress and optimize images
 - [Placeholder.com](https://placeholder.com/) - generate a placeholder image of any size in a second
 - [Gitbook](https://www.gitbook.com/)
+- [Muzzle](https://muzzleapp.com/) - automatically prevents push notifications while screensharing (for all those programming teachers out there)
 
 ##### Lists
 
@@ -103,4 +104,20 @@ This is the list of tools and resources that I use all the time.  Maybe you'll f
 
 ## Blockchain
 
-- [Supercrypta](https://supercrypta.github.io/supercrypta/) - nice little Mac OS X plugin for viewing your coin balances and current prices
+- [Supercrypta](https://supercrypta.github.io/supercrypta/) - nice little Mac OS X plugin for viewing your coin balances and current price
+
+
+
+## Atom
+
+##### Packages
+
+- [jsx-comment](https://atom.io/packages/jsx-comment)
+
+
+
+## Work
+
+### Articles
+
+- [How To Identify A Toxic Culture Before Accepting A Job Offer](https://medium.com/fast-company/how-to-identify-a-toxic-culture-before-accepting-a-job-offer-e27709368f16)
